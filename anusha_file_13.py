@@ -1,2 +1,4 @@
-print("Hello world")
-print("This is Anusha")
+a=5
+b=3
+c=a+b
+print("the sum is:"c)
